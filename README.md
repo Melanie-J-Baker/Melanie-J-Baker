@@ -1,6 +1,6 @@
 Hi, I'm Melanie Baker,
 
-I am learning HTML, CSS and JavaScript, and am very much enjoying learning to code. I am looking to further my skills, with the aim of finding employment within the industry.
+I have taught myself the fundamentals of HTML, CSS and JavaScript, and am very much enjoying coding. I am looking to further my skills, with the aim of finding employment within the industry.
 
 So far I have completed the following online courses:
 
