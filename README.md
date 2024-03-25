@@ -7,7 +7,7 @@ So far I have completed the following online courses:
 The Odin Project:
 - Foundations (Introduction to Web Development)
 - Intermediate HTML and CSS
-- Intermediate Fullstack JavaScript (Current)
+- Intermediate Fullstack JavaScript (inc. Node, Express and MongoDB) (Current)
 
 freeCodeCamp:
 - Responsive Web Design
