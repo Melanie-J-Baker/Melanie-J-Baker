@@ -1,6 +1,6 @@
 Hi, I'm Melanie Baker,
 
-I have taught myself the fundamentals of HTML, CSS, JavaScript, TypeScript, React, Node, Express, and MongoDB/Mongoose whilst running my gardening business and quickly discovered I was in the wrong career. I am looking to further my skills, with the aim of finding employment within the industry (UK - London/SE England - I can be contacted at: baker_mel@hotmail.com).
+I tried coding for fun whilst running my gardening business and quickly discovered I was in the wrong career. I have since taught myself the fundamentals of HTML, CSS, JavaScript, TypeScript, React, Node, Express, and MongoDB/Mongoose. I am looking to further my skills, with the aim of finding employment within the industry (UK - London/SE England - I can be contacted at: baker_mel@hotmail.com).
 
 Visit my website here: https://melanie-j-baker.github.io/portfolio
 
